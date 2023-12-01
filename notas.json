@@ -1,0 +1,39 @@
+[
+  {
+    "Estudiante": "Gabriel",
+    "Materia": "Biología",
+    "Nota1": 3.0,
+    "Nota2": 5.0,
+    "Nota3": 3.7
+  },
+  {
+    "Estudiante": "Jose",
+    "Materia": "Tecnología",
+    "Nota1": 5.0,
+    "Nota2": 4.7,
+    "Nota3": 3.9
+  },
+  {
+    "Estudiante": "Alejandra",
+    "Materia": "Lenguaje",
+    "Nota1": 3.4,
+    "Nota2": 4.6,
+    "Nota3": 3.9
+  },
+  {
+    "Estudiante": "Alejandro",
+    "Materia": "Química",
+    "Nota1": 3.4,
+    "Nota2": 4.6,
+    "Nota3": 3.9
+   },
+   {
+    
+    "Estudiante": "Sofia",
+    "Materia": "Matemáticas",
+    "Nota1": 4.8,
+    "Nota2": 4.6,
+    "Nota3": 4.5
+   }
+  
+]
